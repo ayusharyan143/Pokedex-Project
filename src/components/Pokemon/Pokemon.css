@@ -17,7 +17,6 @@
 .pokemon-name{
     font-size: larger;
     letter-spacing: 0.5rem;
-    
 }
 
 .pokemon-image{
@@ -25,3 +24,4 @@
     height: 150px;
     max-height: 80%;
 }
+
