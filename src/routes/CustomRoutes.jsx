@@ -6,8 +6,10 @@ import PokemonDetails from '../components/PokemonDetails/PokemonDetails'
 function CustomRoutes() {
   return (
     <Routes>
+        
         <Route path="/" element={<Pokedex /> } />
         <Route path="/pokemon/:id" element={<PokemonDetails />} />
+
     </Routes>
   )
 }
