@@ -7,6 +7,12 @@ This project was developed by Ayush Aryan, a B.Tech student specializing in Comp
 
 The Pokémon API Project is a web application that allows users to search for Pokémon by name. The application displays details about each Pokémon, including their image, height, weight, types, and similar Pokémon. The project uses React for the frontend and integrates with a Pokémon API to fetch and display data.
 
+
+## Snapshot
+
+![image](https://github.com/user-attachments/assets/e662620a-e59b-42be-a820-ffdb6f4a9842)
+
+
 ## Features
 
 - Search for Pokémon by name.
